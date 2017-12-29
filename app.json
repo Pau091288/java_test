@@ -1,0 +1,6 @@
+function inicio()
+{
+    console.log("este es un ejemplo");
+}
+
+inicio();
